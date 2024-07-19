@@ -1,0 +1,17 @@
+/* Admin styles */
+.wrap {
+    font-family: Arial, sans-serif;
+}
+
+#wooeats_addons_container {
+    margin-top: 20px;
+}
+
+.wooeats-addons {
+    margin-top: 20px;
+}
+
+/* Frontend styles */
+.wooeats-addons h3 {
+    font-size: 18px;
+}
